@@ -59,7 +59,7 @@ body * {
   left: 0;
   top: 50%;
   z-index: 1;
-  transform: translateY(-50%); /* Revisar! ifícil entendimento */
+  transform: translateY(-50%); /* Revisar! difícil entendimento */
 }
 
 .light #switch button {
